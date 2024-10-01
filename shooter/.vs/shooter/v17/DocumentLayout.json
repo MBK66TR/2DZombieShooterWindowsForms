@@ -1,0 +1,86 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\HP\\Documents\\GitHub\\deneme\\shooter\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{F8531F3B-C8DB-4DE0-AA81-8B3D0BFD358F}|shooter\\shooter.csproj|c:\\users\\hp\\documents\\github\\deneme\\shooter\\shooter\\bullet.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F8531F3B-C8DB-4DE0-AA81-8B3D0BFD358F}|shooter\\shooter.csproj|solutionrelative:shooter\\bullet.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F8531F3B-C8DB-4DE0-AA81-8B3D0BFD358F}|shooter\\shooter.csproj|C:\\Users\\HP\\Documents\\GitHub\\deneme\\shooter\\shooter\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F8531F3B-C8DB-4DE0-AA81-8B3D0BFD358F}|shooter\\shooter.csproj|solutionrelative:shooter\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F8531F3B-C8DB-4DE0-AA81-8B3D0BFD358F}|shooter\\shooter.csproj|C:\\Users\\HP\\Documents\\GitHub\\deneme\\shooter\\shooter\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{F8531F3B-C8DB-4DE0-AA81-8B3D0BFD358F}|shooter\\shooter.csproj|solutionrelative:shooter\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{d78612c7-9962-4b83-95d9-268046dad23a}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{34e76e81-ee4a-11d0-ae2e-00a0c90fffc3}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Bullet.cs",
+              "DocumentMoniker": "C:\\Users\\HP\\Documents\\GitHub\\deneme\\shooter\\shooter\\Bullet.cs",
+              "RelativeDocumentMoniker": "shooter\\Bullet.cs",
+              "ToolTip": "C:\\Users\\HP\\Documents\\GitHub\\deneme\\shooter\\shooter\\Bullet.cs",
+              "RelativeToolTip": "shooter\\Bullet.cs",
+              "ViewState": "AQIAAAMAAAAAAAAAAAAmwBoAAAAmAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-15T20:55:56.78Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Form1.cs",
+              "DocumentMoniker": "C:\\Users\\HP\\Documents\\GitHub\\deneme\\shooter\\shooter\\Form1.cs",
+              "RelativeDocumentMoniker": "shooter\\Form1.cs",
+              "ToolTip": "C:\\Users\\HP\\Documents\\GitHub\\deneme\\shooter\\shooter\\Form1.cs",
+              "RelativeToolTip": "shooter\\Form1.cs",
+              "ViewState": "AQIAAGEBAAAAAAAAAAAuwHABAAAnAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003525|",
+              "WhenOpened": "2024-07-15T20:55:56.934Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Form1.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\HP\\Documents\\GitHub\\deneme\\shooter\\shooter\\Form1.cs",
+              "RelativeDocumentMoniker": "shooter\\Form1.cs",
+              "ToolTip": "C:\\Users\\HP\\source\\repos\\shooter\\shooter\\Form1.cs [Design]",
+              "RelativeToolTip": "..\\..\\..\\..\\source\\repos\\shooter\\shooter\\Form1.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003525|",
+              "WhenOpened": "2024-07-15T20:55:56.937Z"
+            }
+          ]
+        },
+        {
+          "DockedWidth": 469,
+          "SelectedChildIndex": -1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{a80febb4-e7e0-4147-b476-21aaf2453969}"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
